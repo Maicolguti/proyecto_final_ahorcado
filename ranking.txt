@@ -1,0 +1,6 @@
+vale,100,2
+mari,0,0
+juanda,0,0
+maicol,170,2
+mariana,60,1
+juan,50,1
