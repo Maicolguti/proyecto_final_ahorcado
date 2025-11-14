@@ -3,3 +3,5 @@ Para ejecutar el código desde Google Collab, debe agregarse la carpeta proyecto
 Una vez empezado el juego, se indicará la cantidad de caracteres que contiene la palabra, la cantidad de intentos (6) y se solicitará intentar adivinar una letra; de ser correcta, la cantidad de intentos no bajará y se develará en qué partes de la palabra aparece la letra; de ser incorrecta, se reducirá en 1 la cantidad de intentos y se añadirá una pieza al dibujoo del ahorcado. En caso de repetir una letra, haya sido ó no correcta, el programa responderá que ésta ya ha sido usada. 
 Si se gana, se devolverá un mensaje de felicitación y se sumarán los puntos; en el caso contrario, se dará un mensaje triste.
 Finalmente, se le solicita al usuario que indique de nuevo su nombre ó decida salir para terminar el juego.
+
+Presentación: https://www.canva.com/design/DAG4pmGiT4c/ZxU9tdcwo_y3xHH-2c7P9g/edit?utm_content=DAG4pmGiT4c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
