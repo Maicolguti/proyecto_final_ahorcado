@@ -1,0 +1,8 @@
+categoria: frutas 
+manzana, naranja, platano, uva, fresa, melon, kiwi, pera, mango, sandia, cereza, limon, aguacate, durazno, maracuya, mandarina, papaya, granada, coco
+
+categoria: paises
+venezuela, paraguay, argelia, afganistan, albania, alemania, andorra, angola, argentina, australia, austria, bahamas, brasil, Chile, China, Colombia
+
+categoria: peliculas
+titanic, matrix, pitufos, soul, parasito, tiburon, psicosis, casablanca, argeli, amadeus, rebeca, calor, vertigo, hereditario, halloween, memento, sierra, viejo, dientes, audicion, albergue, hombres
